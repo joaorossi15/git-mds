@@ -10,9 +10,13 @@
 
 
 ## Setting Up
+
 `➜ ➜ ➜ mkdir repo && cd repo`
+
 `➜ ➜ ➜ git init`
+
 `➜ ➜ ➜ git config user.name "YOUR_USERNAME"`
+
 `➜ ➜ ➜ git config user.email "YOUR@EMAIL.COM"`
 
 - add `--global` to make it work for all repos
