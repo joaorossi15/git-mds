@@ -9,6 +9,7 @@
     - directed acyclic graph (DAG)
 
 
+
 ## Setting Up
 
 `➜ ➜ ➜ mkdir repo && cd repo`
@@ -100,6 +101,7 @@
         - `➜ ➜ ➜ git push origin main`
     - `➜ ➜ ➜ git pull <remote> <branch>`: get and merge from a **remote branch** (best way to do)
         - `➜ ➜ ➜ git pull origin main`
+
 
 
 ## TIPS
